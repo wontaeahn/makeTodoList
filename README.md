@@ -5,7 +5,7 @@
 - 개요
 - 제작과정
 - 웹사이트 구조
-- 사이트 사진
+- 사진
 - 특징
 - 실행 방법
 
@@ -17,8 +17,13 @@
 - 제작기간 : 20. 5. 25 ~ 20. 6.3
 - 제작인원 : 1명
 
-## https://github.com/awt0720/wontaePortfolio/blob/master/README.md
+## 웹사이트 구조
 ![스크린샷(205)](https://user-images.githubusercontent.com/59378967/83701863-f4e7af00-a645-11ea-8672-dfe30891923c.png)
+
+## 사진
+![스크린샷(206)](https://user-images.githubusercontent.com/59378967/83703253-f31fea80-a649-11ea-97c1-9199227fe170.png)
+![스크린샷(200)](https://user-images.githubusercontent.com/59378967/83703280-0337ca00-a64a-11ea-9a26-1e9f5347cdc2.png)
+
 
 ## 특징
 - 로그인
