@@ -1,5 +1,5 @@
 # 유튜브
-![1 (2)](https://user-images.githubusercontent.com/59378967/83701545-e9e04f00-a644-11ea-89d4-7df9454ad244.png)
+![메인사진](https://user-images.githubusercontent.com/59378967/83702936-15fdcf00-a649-11ea-9064-39d95dd89189.jpg)
 
 ## 목차
 - 개요
