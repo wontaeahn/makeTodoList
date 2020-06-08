@@ -1,0 +1,22 @@
+.warpper {
+    width: 512px;
+    margin: 0 auto;
+    margin-top:4rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16),0 3px 6px rgba(0,0,0,0.26)
+}
+.title {
+    padding: 2rem;
+    text-align: center;
+    background-color: skyblue;
+    font-size: 100;
+    color: white;
+}
+
+.form-warpper {
+    padding: 1rem;
+    border-bottom: 1px solid skyblue;
+}
+
+.todos-warpper {
+    min-height: 5rem;
+}
