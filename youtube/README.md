@@ -22,8 +22,8 @@
 
 
 ## 세부내용
-### Backend
-#### 회원가입
+
+### 회원가입
 ![Untitled-1](https://user-images.githubusercontent.com/59378967/84098206-95bcdc80-aa41-11ea-91c6-54a66f334322.jpg)
 - 비밀번호의 안전을 위해 bcrypt의 salt를 생성하여 암호화<br/>
 
@@ -31,7 +31,7 @@
 ![스크린샷(235)](https://user-images.githubusercontent.com/59378967/84099458-9f940f00-aa44-11ea-861a-5ad8a13acb7d.png)
 
 
-#### 로그인
+### 로그인
 
 
 <p float="left">
@@ -42,9 +42,9 @@
 - 로그인후 비밀번호의 안전을 위해 
 - jsonwebtoken 라이브러리 jwt.sign 메소드를 이용하여
 - user._id + 'secretToken' = token이 생성됨
-## 업로드
+### 로그아웃
 
-
+### 업로드
 ![스크린샷(200)](https://user-images.githubusercontent.com/59378967/83703280-0337ca00-a64a-11ea-9a26-1e9f5347cdc2.png)
 
 ## 댓글
