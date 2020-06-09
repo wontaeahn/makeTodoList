@@ -36,13 +36,21 @@
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/59378967/84100387-bc314680-aa46-11ea-996f-711ac323c370.png" width="45%">
-  <img src="https://user-images.githubusercontent.com/59378967/84100490-f39ff300-aa46-11ea-806e-68cbdfebc6ea.png" width="45%">
+  <img src="https://user-images.githubusercontent.com/59378967/84100490-f39ff300-aa46-11ea-806e-68cbdfebc6ea.png" width="52%">
 </p>
 
 - 로그인후 비밀번호의 안전을 위해 
 - jsonwebtoken 라이브러리 jwt.sign 메소드를 이용하여
 - user._id + 'secretToken' = token이 생성됨
 ### 로그아웃
+
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/59378967/84103464-0b2eaa00-aa4e-11ea-8a12-b73a188ecc2d.png" width="45%">
+<img src="https://user-images.githubusercontent.com/59378967/84103465-0c5fd700-aa4e-11ea-8ab6-d665669707d5.png" width="50%">
+</p>
+- auth기능 만들어서 toekn 비교로 인증후 로그인이 되었기 때문에
+- token을 지워 인증을 풀어 로그아웃 시킨다
 
 ### 업로드
 ![스크린샷(200)](https://user-images.githubusercontent.com/59378967/83703280-0337ca00-a64a-11ea-9a26-1e9f5347cdc2.png)
