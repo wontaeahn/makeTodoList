@@ -32,7 +32,19 @@
 
 
 #### 로그인
+
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/59378967/84100387-bc314680-aa46-11ea-996f-711ac323c370.png" width="45%">
+  <img src="https://user-images.githubusercontent.com/59378967/84100490-f39ff300-aa46-11ea-806e-68cbdfebc6ea.png" width="45%">
+</p>
+
+- 로그인후 비밀번호의 안전을 위해 
+- jsonwebtoken 라이브러리jwt.sign 메소드를 이용하여 토큰생성
+- user._id + 'secretToken' = token이 생성됨
 ## 업로드
+
+
 ![스크린샷(200)](https://user-images.githubusercontent.com/59378967/83703280-0337ca00-a64a-11ea-9a26-1e9f5347cdc2.png)
 
 ## 댓글
