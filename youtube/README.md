@@ -40,7 +40,7 @@
 </p>
 
 - 로그인후 비밀번호의 안전을 위해 
-- jsonwebtoken 라이브러리jwt.sign 메소드를 이용하여 토큰생성
+- jsonwebtoken 라이브러리 jwt.sign 메소드를 이용하여
 - user._id + 'secretToken' = token이 생성됨
 ## 업로드
 
