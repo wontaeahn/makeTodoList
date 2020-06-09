@@ -49,8 +49,10 @@
 <img src="https://user-images.githubusercontent.com/59378967/84103464-0b2eaa00-aa4e-11ea-8a12-b73a188ecc2d.png" width="45%">
 <img src="https://user-images.githubusercontent.com/59378967/84103465-0c5fd700-aa4e-11ea-8ab6-d665669707d5.png" width="50%">
 </p>
+
+
 - auth기능 만들어서 toekn 비교로 인증후 로그인이 되었기 때문에
-- token을 지워 인증을 풀어 로그아웃 시킨다
+- user_id를 DB에서 찾아 token을 지우면 인증을 풀려서 로그아웃 된다
 
 ### 업로드
 ![스크린샷(200)](https://user-images.githubusercontent.com/59378967/83703280-0337ca00-a64a-11ea-9a26-1e9f5347cdc2.png)
